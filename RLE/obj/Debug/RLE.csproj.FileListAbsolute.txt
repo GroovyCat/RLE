@@ -1,0 +1,7 @@
+C:\Users\kodee\source\repos\RLE\RLE\bin\Debug\RLE.exe.config
+C:\Users\kodee\source\repos\RLE\RLE\bin\Debug\RLE.exe
+C:\Users\kodee\source\repos\RLE\RLE\bin\Debug\RLE.pdb
+C:\Users\kodee\source\repos\RLE\RLE\obj\Debug\RLE.csprojAssemblyReference.cache
+C:\Users\kodee\source\repos\RLE\RLE\obj\Debug\RLE.csproj.CoreCompileInputs.cache
+C:\Users\kodee\source\repos\RLE\RLE\obj\Debug\RLE.exe
+C:\Users\kodee\source\repos\RLE\RLE\obj\Debug\RLE.pdb
